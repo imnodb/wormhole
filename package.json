@@ -1,7 +1,7 @@
 {
   "name": "com.imnodb.wormhole",
   "version": "0.0.1",
-  "author": "bingur <imnodb@gmail.com>",
+  "author": "DB Eriospermum <imnodb@gmail.com>",
   "description": "An electron-vue project",
   "license": "MIT",
   "main": "./dist/electron/main.js",
